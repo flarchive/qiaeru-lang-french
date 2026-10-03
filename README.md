@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of qiaeru/lang-french.** Not for installation: use [Packagist](https://packagist.org/packages/qiaeru/lang-french) or the [upstream repository](https://github.com/flarum-lang/french).
 
-**0** versions archived · Latest: [`5.0.13`](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v5.0.13) · License: `MIT` · Flarum: `^2.0`
+**90** versions archived · Latest: [`5.0.13`](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v5.0.13) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `4.29.6` | 2026-09-30 | `^1.8` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v4.29.6) |
+| `5.0.13` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v5.0.13) |
+| `v1.0.1` | 2015-11-03 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.1) |
+| `v1.0.2` | 2015-11-05 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.2) |
+| `v1.0.3` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.3) |
+| `v1.0.4` | 2016-10-20 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.4) |
+| `v1.0.5` | 2016-10-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.5) |
+| `v1.0.6` | 2016-11-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.0.6) |
+| `v1.1.0` | 2017-07-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.1.0) |
+| `v1.10.0` | 2021-03-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/qiaeru-lang-french/tree/archive/v1.10.0) |
+
+[View all 90 versions](https://github.com/flarchive/qiaeru-lang-french/tags)
 
 Catalog entry: [packages/qiaeru-lang-french.json](https://github.com/flarchive/archive-index/blob/main/packages/qiaeru-lang-french.json)
 
